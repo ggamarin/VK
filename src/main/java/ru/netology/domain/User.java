@@ -5,5 +5,5 @@ public class User {
     private boolean Reposted;
     private boolean commentsAllowed;
     private boolean bookmarked;
-
+    private boolean admin;
 }
